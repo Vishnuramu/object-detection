@@ -1,0 +1,11 @@
+# Ignore large or unneeded files
+*.mp4
+*.avi
+*.mov
+*.pt
+*.jpg
+*.png
+__pycache__/
+output*
+detected.jpg
+*.zip
